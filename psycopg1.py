@@ -40,7 +40,7 @@ class RegistrationForm(StatesGroup):
 
 
 
-TOKEN = ""
+TOKEN = "yhjgjhgjhg"
 
 
 
